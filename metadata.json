@@ -1,0 +1,6 @@
+{
+  "name": "HealthifyYou",
+  "description": "A comprehensive personalized health, nutrition, and workout tracking application with an AI wellness companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
